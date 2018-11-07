@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Reference sites and materials
-description: References
+title: References
 permalink: /references/
 ---
 
