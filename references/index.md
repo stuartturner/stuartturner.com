@@ -19,6 +19,7 @@ permalink: /references/
 [Agile Product Management - Roman Pichler](https://www.amazon.com/Agile-Product-Management-Scrum-Addison-Wesley/dp/0321605780)  
 [Agile Estimation and Planning - Mike Cohn](https://www.amazon.com/Agile-Estimating-Planning-Robert-Martin-ebook/dp/B004X1D3TC)  
 [Story Mapping (Jeff Patton's website)](https://jpattonassociates.com/user-story-mapping/)  
+[Failure Demand](https://vanguard-method.net/2018/07/failure-demand-from-the-horses-mouth-with-john-seddon-2/)  
 <br/>  
 
 #### Scrum Mastery
