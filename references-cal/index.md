@@ -8,18 +8,15 @@ permalink: /references-cal/
 
 #### Spotify - Engineering Culture
 <!-- Spotify Engineering (1) - Henrik Kniberg -->
-[Spotify Engineering (1)](https://www.youtube-nocookie.com/embed/4GK1NDTWbkY?rel=0)  
-
+<iframe width="532" height="300" src="https://www.youtube-nocookie.com/embed/4GK1NDTWbkY?rel=0" frameborder="0" allowfullscreen></iframe>
 <!-- Spotify Engineering (2) - Henrik Kniberg -->
-[Spotify Engineering (2)](https://www.youtube-nocookie.com/embed/CXg_57S6msg?rel=0)  
+<iframe width="532" height="300" src="https://www.youtube-nocookie.com/embed/CXg_57S6msg?rel=0" frameborder="0" allowfullscreen></iframe>
 <br/>
-
 #### 7 Habits of Highly Sucessful People - Steven Covey
 <!-- 7 Habits (1) - Steven Covey -->
-[7 Habits of Highly Successful People (1)](https://www.youtube-nocookie.com/embed/qaJt6LTTcwY?rel=0)  
-
+<iframe width="532" height="300" src="https://www.youtube-nocookie.com/embed/qaJt6LTTcwY?rel=0" frameborder="0" allowfullscreen></iframe>
 <!-- 7 Habits (2) - Steven Covey -->
-[7 Habits of Highly Successful People (2)](https://www.youtube-nocookie.com/embed/Wda8vWPKkZI?rel=0)  
+<iframe width="532" height="300" src="https://www.youtube-nocookie.com/embed/Wda8vWPKkZI?rel=0" frameborder="0" allowfullscreen></iframe>
 <br/>
 
 #### Relevant Books…
